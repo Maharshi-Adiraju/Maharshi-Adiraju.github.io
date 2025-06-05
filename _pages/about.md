@@ -33,4 +33,4 @@ Let’s connect—I’d love to discuss product leadership, innovation, or how t
 
 ---
 
-[View My Work](/portfolio/) | [Read My Insights](/posts/) | [Connect on LinkedIn](www.linkedin.com/in/maharshiadiraju)
+[View My Work](/portfolio/) | [Read My Insights](/posts/) | [Connect on LinkedIn](https://www.linkedin.com/in/maharshiadiraju/)
