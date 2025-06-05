@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Senior Product Manager | AI & Strategic Solutions"
+title: "Senior Product Manager | Search & AI Products"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
