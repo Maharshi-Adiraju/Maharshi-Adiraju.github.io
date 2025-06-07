@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Product Leadership Insights
 
 *Strategic thinking, lessons learned, and frameworks for building exceptional products.*
 
